@@ -1,0 +1,16 @@
+{
+  "name": "SugarFit Club",
+  "short_name": "SugarFit",
+  "description": "Move Together. Control Sugar. Live Better.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10b981",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
